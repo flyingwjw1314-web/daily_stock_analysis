@@ -15,13 +15,13 @@
 
 **零成本部署** · GitHub Actions 免費運行 · 無需伺服器
 
-[**快速開始**](#快速開始) · [**功能特性**](#功能特性) · [**推送效果**](#推送效果) · [**完整指南**](full-guide.md) · [**常見問題**](FAQ.md) · [**更新日誌**](CHANGELOG.md)
+[**功能特性**](#-功能特性) · [**快速開始**](#-快速開始) · [**推送效果**](#-推送效果) · [**完整指南**](full-guide.md) · [**常見問題**](FAQ.md) · [**更新日誌**](CHANGELOG.md)
 
-[English](../README_EN.md) | [简体中文](../README.md) | 繁體中文
+ 繁體中文[English] | (../README_EN.md) | [简体中文](../README.md)
 
 </div>
 
-## 贊助商 (Sponsors)
+## 💖 贊助商 (Sponsors)
 
 <div align="center">
   <a href="https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis" target="_blank">
@@ -30,7 +30,7 @@
 </div>
 <br>
 
-## 功能特性
+## ✨ 功能特性
 
 | 模組 | 功能 | 說明 |
 |------|------|------|
@@ -58,7 +58,7 @@
 | 精確點位 | 買入價、止損價、目標價 |
 | 檢查清單 | 每項條件以「符合 / 注意 / 不符合」標記 |
 
-## 快速開始
+## 🚀 快速開始
 
 ### 方式一：GitHub Actions（推薦）
 
@@ -135,7 +135,7 @@
 
 > 📖 本地運行、Docker 部署詳細步驟請參考 [完整配置指南](full-guide.md)
 
-## 推送效果
+## 📱 推送效果
 
 ![運行效果演示](../sources/all_2026-01-13_221547.gif)
 
@@ -181,7 +181,7 @@
 
 > 📖 完整環境變量、定時任務配置請參考 [完整配置指南](full-guide.md)
 
-## 本地 WebUI（可選）
+## 🖥️ 本地 WebUI（可選）
 
 本地運行時，可啟用 WebUI 來管理配置和觸發分析。
 
@@ -235,7 +235,7 @@ daily_stock_analysis/
 └── .github/workflows/   # GitHub Actions
 ```
 
-## Roadmap
+## 🗺️ Roadmap
 
 > 📢 以下功能將視後續情況逐步完成，如果你有好的想法或建議，歡迎 [提交 Issue](https://github.com/ZhuLinsen/daily_stock_analysis/issues) 討論！
 
@@ -268,7 +268,7 @@ daily_stock_analysis/
 - [x] 美股支持
 - [ ] 歷史分析回測
 
-## 支持項目
+## ☕ 支持項目
 
 <div align="center">
   <a href="https://ko-fi.com/mumu157" target="_blank">

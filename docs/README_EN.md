@@ -15,13 +15,13 @@ Analyze your watchlist daily → generate a decision dashboard → push to multi
 
 **Zero-cost deployment** · Runs on GitHub Actions · No server required
 
-[**Quick Start**](#quick-start) · [**Key Features**](#key-features) · [**Sample Output**](#sample-output) · [**Full Guide**](full-guide.md) · [**FAQ**](FAQ.md) · [**Changelog**](CHANGELOG.md)
+[**Quick Start**](#-quick-start) · [**Key Features**](#-key-features) · [**Sample Output**](#-sample-output) · [**Full Guide**](full-guide.md) · [**FAQ**](FAQ.md) · [**Changelog**](CHANGELOG.md)
 
 English | [简体中文](../README.md) | [繁體中文](README_CHT.md)
 
 </div>
 
-## Sponsors
+## 💖 Sponsors
 
 <div align="center">
   <a href="https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis" target="_blank">
@@ -30,7 +30,7 @@ English | [简体中文](../README.md) | [繁體中文](README_CHT.md)
 </div>
 <br>
 
-## Key Features
+## ✨ Key Features
 
 | Module | Feature | Description |
 |--------|---------|-------------|
@@ -58,7 +58,7 @@ English | [简体中文](../README.md) | [繁體中文](README_CHT.md)
 | Precise levels | Entry, stop loss, target |
 | Checklist | Each condition marked as Pass / Watch / Fail |
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Option 1: GitHub Actions (Recommended, Zero Cost)
 
@@ -208,7 +208,7 @@ python main.py --market-review
 
 ---
 
-## Supported Notification Channels
+## 📱 Supported Notification Channels
 
 ### 1. Telegram (Recommended)
 
@@ -261,7 +261,7 @@ PUSHPLUS_TOKEN=your_token_here
 
 ---
 
-## Sample Output
+## 🎨 Sample Output
 
 ![Demo](../sources/all_2026-01-13_221547.gif)
 

@@ -11,9 +11,9 @@
 
 > 🤖 基于 AI 大模型的 A股/港股/美股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/邮箱
 
-[**功能特性**](#功能特性) · [**快速开始**](#快速开始) ·  [**推送效果**](#推送效果) · [**完整指南**](docs/full-guide.md) · [**常见问题**](docs/FAQ.md) · [**更新日志**](docs/CHANGELOG.md)
+[**功能特性**](#-功能特性) · [**快速开始**](#-快速开始) · [**推送效果**](#-推送效果) · [**完整指南**](docs/full-guide.md) · [**常见问题**](docs/FAQ.md) · [**更新日志**](docs/CHANGELOG.md)
 
-[English](docs/README_EN.md) | 简体中文 | [繁體中文](docs/README_CHT.md)
+简体中文 | [English](docs/README_EN.md) | [繁體中文](docs/README_CHT.md)
 
 </div>
 
@@ -26,7 +26,7 @@
 <br>
 
 
-## ✨功能特性
+## ✨ 功能特性
 
 | 模块 | 功能 | 说明 |
 |------|------|------|
@@ -54,7 +54,7 @@
 | 精确点位 | 买入价、止损价、目标价 |
 | 检查清单 | 每项条件以「满足 / 注意 / 不满足」标记 |
 
-## 快速开始
+## 🚀 快速开始
 
 ### 方式一：GitHub Actions（推荐）
 
@@ -145,7 +145,7 @@ python main.py
 
 > Docker 部署、定时任务配置请参考 [完整指南](docs/full-guide.md)
 
-## 推送效果
+## 📱 推送效果
 
 ![运行效果演示](./sources/all_2026-01-13_221547.gif)
 
@@ -191,7 +191,7 @@ python main.py
 > 📖 完整环境变量、定时任务配置请参考 [完整配置指南](docs/full-guide.md)
 
 
-## 本地 WebUI（可选）
+## 🖥️ 本地 WebUI（可选）
 
 ```bash
 python main.py --webui       # 启动 WebUI + 执行分析
@@ -202,7 +202,7 @@ python main.py --webui-only  # 仅启动 WebUI
 
 > 详细说明请参考 [完整指南 - WebUI](docs/full-guide.md#本地-webui-管理界面)
 
-## Roadmap
+## 🗺️ Roadmap
 
 查看已支持的功能和未来规划：[更新日志](docs/CHANGELOG.md)
 
@@ -211,7 +211,7 @@ python main.py --webui-only  # 仅启动 WebUI
 
 ---
 
-## 支持项目
+## ☕ 支持项目
 
 如果本项目对你有帮助，欢迎支持项目的持续维护与迭代，感谢支持 🙏  
 赞赏可备注联系方式，祝股市长虹
